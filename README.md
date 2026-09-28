@@ -458,10 +458,3 @@ GitHub: [kallemmanasa07](https://github.com/kallemmanasa07)
 This project was developed for learning and practicing **Java Web Development, JSP, Servlets, JDBC, and MySQL database connectivity** using Eclipse IDE and Apache Tomcat.
 
 ```
-
-### ⚠️ One important point
-
-I would **not put your actual MySQL password in the README or GitHub**. Keep it only in your local `DBConnection.java`, and ideally use environment variables/configuration for a real deployment.
-
-Also, your ZIP contains a `.git` folder, so if you're going to upload this project to a **new GitHub repository**, don't blindly copy the `.git` folder into another repository. Use the project's source files and initialize/connect Git from the project root.
-```
